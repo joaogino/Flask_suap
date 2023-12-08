@@ -1,0 +1,13 @@
+<!doctype html>
+{% extends 'base.html' %}
+
+<title>{% block title %} Login OAuth SUAP {% endblock %}</title>
+
+{% block content %}
+    
+    <div>
+        <a class="btn btn-success text-bold py-3 px-4" href="{{url_for('login')}}">LOGIN</a>
+    </div>
+
+{% endblock %}
+</html>

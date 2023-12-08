@@ -1,0 +1,14 @@
+thead, tbody{
+   background-color: antiquewhite;
+   border: 5cm;
+   border-color: pink;
+}
+p{
+    color: black;
+}
+body {
+    width: 1850px;
+    background-color: #f6d7ad;
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+  }
